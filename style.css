@@ -1,0 +1,58 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: #f0f0f0;
+}
+
+table {
+    background-color:#f0f0f0 ;
+    margin-top: 40px;
+    border-collapse: collapse;
+    width: 95%;
+    border: 1px solid black;
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
+
+th {
+    background-color: rgba(0, 128, 0, 0.795);
+    color: white;
+    height: 60px;
+}
+
+th,
+td,
+tr {
+    text-align: center;
+    padding: 8px;
+    border-bottom: 1px solid black;
+    border-collapse: collapse;
+    width: 5%;
+    height: 12vh;
+    height: 83px;
+    /* border: 3px solid black; */
+}
+
+.img {
+    margin-left: -140px;
+
+    height: 60px;
+    width: 60px;
+}
+
+p {
+    margin-left: 2px;
+    margin-right: 60px;
+    font-size: 19px;
+}
+
+.q {
+    text-align: center;
+}
+
+.fa-times {
+    color: gray;
+}
